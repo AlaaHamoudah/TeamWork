@@ -4,5 +4,7 @@
  * and open the template in the editor.
  */
  session_start();
+ 
+ //test here!
 
 ?>
